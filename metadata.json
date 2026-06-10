@@ -1,0 +1,6 @@
+{
+  "name": "OCI DB Deployment Model & Pricing v2",
+  "description": "Enterprise infrastructure planning tool for Oracle Exadata Cloud Service, featuring automated rack bin-packing and prorated cost calculation logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
